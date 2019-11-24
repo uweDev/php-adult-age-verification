@@ -5,3 +5,5 @@ Dieses Altersnachweissystem bzw. Adult/Age Verification System ist in PHP geschr
 PHP Version: 7.2.24
 
 Lizenz: MIT License
+
+<img src="https://raw.githubusercontent.com/uweDev/php-adult-age-verification/master/Screenshot_2019-11-24.jpg" title="Screenshot">
