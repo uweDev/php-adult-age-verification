@@ -1,0 +1,73 @@
+/*
+This is a Open-Source-Software.
+This open source software was released on 24.11.2019 by Uwe Hellmann and is subject to the MIT License.
+You can download this Open-Source-Software from here: https://github.com/uweHellmann/Adult-Age-Verification-System-Altersnachweissystem
+*/
+
+body {
+	background-image: url('img/fskBackground.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: "Mukta Malar", sans-serif;
+	text-align: center;
+}
+
+	/* The FSK Content */
+
+	.fskCheckBox {
+		position: absolute;
+		top: 45%;
+		-webkit-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		transform: translateY(-50%);
+		width: 60%;
+		left: 20%;
+		right: 20%;
+		padding: 14px 14px 0 14px;
+		background-color: #925298;
+		color: #fff;
+		margin-top: 40px;
+		text-align: center;
+	}
+
+		.fskCheckBox h3 {
+			line-height: 28px;
+		}
+
+		.fskCheckBox p {
+			line-height: 22px;
+		}
+
+		.fskCheckBox .links {
+			padding: 20px 0;
+		}
+
+		.fskCheckBox .links p {
+			margin-bottom: 40px;
+		}
+
+		.fskCheckBox .btn {
+			display: inline-block;
+			background-color: #fff;
+			padding: 12px;
+			color: #841e51;
+		}
+
+		.fskCheckBox .btn:hover {
+			text-decoration: none;
+			color: #000;
+			box-shadow: 3px -3px 9px #000;
+		}
+
+		a {
+			color: #fff;
+		}
+
+		.legal a:hover {
+			text-decoration: none;
+		}
+
+		.cc {
+			clear: both;
+		}
