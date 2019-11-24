@@ -2,7 +2,7 @@
 /*
 This is a Open-Source-Software.
 This open source software was released on 24.11.2019 by Uwe Hellmann and is subject to the MIT License.
-You can download this Open-Source-Software from here: https://github.com/uweHellmann/Adult-Age-Verification-System-Altersnachweissystem
+You can download this Open-Source-Software from here: https://github.com/uweDev/php-adult-age-verification
 */
 
 if(isset($_GET['checked'])) {

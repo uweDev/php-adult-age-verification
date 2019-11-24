@@ -1,7 +1,7 @@
-Bitte verlinken Sie Ihre Datenschutzerklärung und Ihr Impressum, in Zeile 18 und 19.
-Das Hintergrundbild stammt von pixabay.com und kann somit für beliebige Zwecke verwendet werden.
+Bitte verlinken Sie Ihre DatenschutzerklÃ¤rung und Ihr Impressum, in Zeile 18 und 19.
+Das Hintergrundbild stammt von pixabay.com und kann somit fÃ¼r beliebige Zwecke verwendet werden.
 Weitere Informationen zur Verwendung von Pixabay-Bildern finden Sie hier: https://pixabay.com/de/service/terms/
-Das gesetzte Cookie (FSK) hält eine Woche, angabe in Sekunden.
+Das gesetzte Cookie (FSK) hÃ¤lt eine Woche, Angabe in Sekunden.
 
 ---
 
